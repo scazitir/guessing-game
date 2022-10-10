@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665263993 source:d:\sodv1101\lectures\lecture11-guessing-game\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
